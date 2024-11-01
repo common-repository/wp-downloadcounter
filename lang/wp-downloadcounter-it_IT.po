@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-DownloadCounter in italiano\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-12-03 20:37+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: D:\\Projects\\Websites\\bovendeur.org\\www\\wordpress\\wp-content\\plugins\\wp-downloadcounter\n"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:43
+msgid "Configuration saved"
+msgstr "La configurazione é stata salvata"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:45
+#, php-format
+msgid "Download %s changed"
+msgstr "Il download %s é stato modificato"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:45
+#, php-format
+msgid "Download %s added"
+msgstr "Il download %s é stato aggiunto"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:61
+msgid "Download removed"
+msgstr "Il download é stato rimosso"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:68
+msgid "Download counter reset"
+msgstr "Il contatore del download é stato ripristinato"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:78
+msgid "Edit download"
+msgstr "Inserisci il download"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:78
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:159
+msgid "Add download"
+msgstr "Aggiungi un download"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:85
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:123
+msgid "Name"
+msgstr "Nome"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:89
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:124
+msgid "URL"
+msgstr "URL"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:100
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:100
+msgid "Save"
+msgstr "Salva"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:110
+#, php-format
+msgid "Downloads for %s"
+msgstr "Numero di download per %s"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:111
+#, php-format
+msgid "Total downloads: %d"
+msgstr "Totale download: %d"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:115
+msgid "Referer"
+msgstr "Referente"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:116
+msgid "IP Address"
+msgstr "Indirizzo IP"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:117
+msgid "Date"
+msgstr "Data"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:155
+msgid "Configuration"
+msgstr "Configurazione"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:160
+msgid "Use pretty links"
+msgstr "Utilizza pretty links"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:163
+msgid "When this checkbox is checked, the plugin will generate URL's using the slug defined below. When this checkbox in not checked, download links will be generated as /?download=&lt;name&gt;"
+msgstr "Una volta inserito il segno di spunta, il plugin potrà generare l'URL facendo uso dello slug definito qui sotto. Qualora la casella non venisse selezionata, i link di download avranno la seguente struttura: /?download=&lt;name&gt;"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:167
+msgid "Download slug"
+msgstr "Slug per il download"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:169
+msgid "After changing this value, you should update the Permalink structure at <a href=\"options-permalink.php\">this</a> page, before the new download slug will work. Since the download URL's created by this plugin are already changed, your visitors will receive a not found page untill you update the Permalink structure."
+msgstr "Una volta modificato questo valore, sarà necessario che tu debba cambiare la struttura dei Permalink in <a href=\"options-permalink.php\">questa</a> pagina, in modo tale che possa funzionare il nuovo slug per i download. Sino a quando l'URL di download creato dal plugin non sarà stato modificato, i tuoi utenti riceveranno un errore 404 (pagina non trovata) qualora tu non avessi ancora aggiornato la struttura del Permalink."
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:107
+msgid "Available downloads"
+msgstr "Download disponibili"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:114
+msgid "There are no downloads available yet"
+msgstr "Non sono ancora presenti dei download"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:122
+msgid "ID"
+msgstr "ID"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:125
+msgid "Added on"
+msgstr "Aggiunto il"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:126
+msgid "Downloads"
+msgstr "Download"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:127
+msgid "Last downloaded"
+msgstr "Ultimo file scaricato"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:140
+msgid "Without counter"
+msgstr "Senza il contatore"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:140
+msgid "With counter"
+msgstr "Con il contatore"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:179
+msgid "View"
+msgstr "Visualizza"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:144
+msgid "Reset"
+msgstr "Ripristina"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:145
+msgid "Edit"
+msgstr "Modifica"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:146
+#, php-format
+msgid ""
+"You are about to delete this download '%s'.\n"
+"'OK' to delete, 'Cancel' to stop.\n"
+"\n"
+"Warning: deleting a download will NOT delete the original file, only the link to the file!"
+msgstr ""
+"Stai per cancellare questo download '%s'.\n"
+"'OK' per procedere, 'Cancella' per fermarsi.\n"
+"\n"
+"Attenzione: la cancellazione di un download NON rimuoverà il file originale ma solamente il link al file!"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:146
+msgid "Delete"
+msgstr "Cancella"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:227
+msgid "Specify the amount of logs you will see on each page."
+msgstr "Determina il numero di log che desideri vedere in ogni singola pagina."
+
+msgid "GB"
+msgstr "Gigabytes"
+
+msgid "MB"
+msgstr "Megabytes"
+
+msgid "kB"
+msgstr "Kilobytes"
+
+msgid "B"
+msgstr "Bytes"
+

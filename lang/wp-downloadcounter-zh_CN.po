@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-downloadcounter\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lu Da <i@lorz.me>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:43
+msgid "Configuration saved"
+msgstr "配置已经保存"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:45
+#, php-format
+msgid "Download %s changed"
+msgstr "改变了 %s 下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:45
+#, php-format
+msgid "Download %s added"
+msgstr "添加了 %s 下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:61
+msgid "Download removed"
+msgstr "移除了下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:68
+msgid "Download counter reset"
+msgstr "计数器重置"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:78
+msgid "Edit download"
+msgstr "编辑下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:78
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:159
+msgid "Add download"
+msgstr "添加下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:85
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:123
+msgid "Name"
+msgstr "名称"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:89
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:124
+msgid "URL"
+msgstr "地址"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:100
+msgid "Save changes"
+msgstr "保存更改"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:100
+msgid "Save"
+msgstr "保存"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:110
+#, php-format
+msgid "Downloads for %s"
+msgstr "%s 的下载次数"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:111
+#, php-format
+msgid "Total downloads: %d"
+msgstr "总计下载：%d"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:115
+msgid "Referer"
+msgstr "来源"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:116
+msgid "IP Address"
+msgstr "IP 地址"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:117
+msgid "Date"
+msgstr "日期"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:155
+msgid "Configuration"
+msgstr "配置"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:160
+msgid "Use pretty links"
+msgstr "简洁链接"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:163
+msgid "When this checkbox is checked, the plugin will generate URL's using the slug defined below. When this checkbox in not checked, download links will be generated as /?download=&lt;name&gt;"
+msgstr "选中时将使用下面的自定义链接；未选择时将使用类似的链接 /?download=&lt;name&gt;"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:167
+msgid "Download slug"
+msgstr "缩略名"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:169
+msgid "After changing this value, you should update the Permalink structure at <a href=\"options-permalink.php\">this</a> page, before the new download slug will work. Since the download URL's created by this plugin are already changed, your visitors will receive a not found page untill you update the Permalink structure."
+msgstr "改变了这个设置时，在新的链接生效前，你应该在 <a href=\"options-permalink.php\">这里</a> 更新永久链接。一旦这个设置被更改了，你的访问者会得到没有找到页面的提示，除非你更新了永久链接。"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:107
+msgid "Available downloads"
+msgstr "可用下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:114
+msgid "There are no downloads available yet"
+msgstr "还没有可用下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:122
+msgid "ID"
+msgstr "ID"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:125
+msgid "Added on"
+msgstr "添加于"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:126
+msgid "Downloads"
+msgstr "下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:127
+msgid "Last downloaded"
+msgstr "最近下载"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:140
+msgid "Without counter"
+msgstr "不使用计数器"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:140
+msgid "With counter"
+msgstr "使用计数器"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:179
+msgid "View"
+msgstr "查看"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:144
+msgid "Reset"
+msgstr "重置"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:145
+msgid "Edit"
+msgstr "编辑"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:146
+#, php-format
+msgid ""
+"You are about to delete this download '%s'.\n"
+"'OK' to delete, 'Cancel' to stop.\n"
+"\n"
+"Warning: deleting a download will NOT delete the original file, only the link to the file!"
+msgstr ""
+"你将要删除此下载 '%s'.\n"
+"点击“确认”将删除， “取消”将停止。\n"
+"\n"
+"提示：删除下载不会删除原始文件，只删除到文件的链接！"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:146
+msgid "Delete"
+msgstr "删除"
+
+# D:\Projects\Websites\bovendeur.org\www\wordpress\wp-content\plugins\wp-downloadcounter/downloadcounter-options.php:227
+msgid "Specify the amount of logs you will see on each page."
+msgstr "每页显示记录的数量"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "kB"
+msgstr "KB"
+
+msgid "B"
+msgstr "B"
+
+msgid "Items per page"
+msgstr "每页显示"
+
+msgid "User"
+msgstr "用户"
+
